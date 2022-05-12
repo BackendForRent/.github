@@ -1,4 +1,4 @@
-# Backend For Rent (BFR)
+# Backend for Rent (BfR)
 
 Is a modular backend for anyone needing a backend for their app with chooseble modules with additional features
 
